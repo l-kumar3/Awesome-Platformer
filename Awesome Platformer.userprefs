@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller Scripts/MainMenuController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player Scripts/ScoreScript.cs" Line="26" Column="42" />
+      <File FileName="Assets/Scripts/Helper Scripts/MyTags.cs" Line="14" Column="41" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EggScript.cs" Line="10" Column="64" />
+      <File FileName="Assets/Scripts/Enemy Scripts/SnailScript.cs" Line="79" Column="76" />
+      <File FileName="Assets/Scripts/Enemy Scripts/FrogScript.cs" Line="32" Column="55" />
+      <File FileName="Assets/Scripts/Enemy Scripts/SpiderScript.cs" Line="61" Column="55" />
+      <File FileName="Assets/Scripts/Collectable Scripts/BonusBlock.cs" Line="44" Column="25" />
+      <File FileName="Assets/Scripts/Boss Scripts/StoneScript.cs" Line="20" Column="33" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerDamage.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/Boss Scripts/BossScript.cs" Line="31" Column="34" />
+      <File FileName="Assets/Scripts/Boss Scripts/BossHealth.cs" Line="31" Column="28" />
+      <File FileName="Assets/Scripts/Player Scripts/FireBullet.cs" Line="52" Column="42" />
+      <File FileName="Assets/Scripts/Controller Scripts/MainMenuController.cs" Line="9" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
